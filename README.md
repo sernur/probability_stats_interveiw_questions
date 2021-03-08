@@ -6,3 +6,4 @@ In this repository, I will try to solve interview questions that are mostly abou
 1. Minimum of two uniform random variables
 2. Detecting Unfair coin
 3. Can you form a triangle ?
+4. Expected Number of flips until N heads
