@@ -7,3 +7,4 @@ In this repository, I will try to solve interview questions that are mostly abou
 2. Detecting Unfair coin
 3. Can you form a triangle ?
 4. Expected Number of flips until N heads
+5. Simulating a Fair Coin with a Biased Coin
