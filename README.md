@@ -8,5 +8,6 @@ In this repository, I will try to solve interview questions that are mostly abou
 3. Can you form a triangle ?
 4. Expected Number of flips until N heads
 5. Simulating a Fair Coin with a Biased Coin
-6. Is the coin biased?
-7. Fair coins and double headed coin
+6. Which game you would choose?
+7. Is the coin biased?
+8. Fair coins and double headed coin
